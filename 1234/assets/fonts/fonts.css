@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Instagram Sans";
+  src: url("./instagram-sans-regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Optimistic Text";
+  src: url("./optimistic-text-normal.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Optimistic Text";
+  src: url("./optimistic-text-medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Optimistic Display";
+  src: url("./optimistic-display-semibold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
